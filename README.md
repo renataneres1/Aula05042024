@@ -11,3 +11,10 @@ Rede social para busca e oferta de emprego para pessoas LGBTQIA+
 3. Ofertas de Cursos.
 4. Oferta de Palestras.
 5. Promover Interacao 
+
+**Stack Holders:**
+
+1. Empresa
+2. Pessoas LGBTQIA+
+3. Escolas de Cursos
+
